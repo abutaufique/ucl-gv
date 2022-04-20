@@ -1,2 +1,2 @@
-# This is the officeal Repo for ucl-gv
-## Our paper is accepted at CVPR 2022 CLVision workshop
+# This is the official Repo of our ucl-gv paper
+## Our paper is accepted at CVPR 2022 CLVision Workshop
